@@ -1,6 +1,6 @@
 # Aelio - AI-Powered Decentralized Fund Manager
 
-![Aelio](/header.jpeg)
+![Aelio](/profile/header.jpeg)
 
 ## 🚀 About Aelio
 
